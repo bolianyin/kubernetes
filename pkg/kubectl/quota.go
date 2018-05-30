@@ -25,7 +25,6 @@ import (
 )
 
 // ResourceQuotaGeneratorV1 supports stable generation of a resource quota
-// test a change.
 type ResourceQuotaGeneratorV1 struct {
 	// The name of a quota object.
 	Name string
